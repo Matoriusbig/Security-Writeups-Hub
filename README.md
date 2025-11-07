@@ -31,9 +31,9 @@ Si estas enpezando de 0 en la ciberseguridad como yo, te recomiendo comenzar con
 
 * [Dominio 1: Principios de Seguridad](./ISC2-CC/CC-Dominio1.md)
 * [Dominio 2: Continuidad del Negocio (BC) y Respuesta a Incidentes](./ISC2-CC/CC-Dominio2.md)
-* [Dominio 3: Conceptos de Redes y Seguridad](./ISC2-CC/CC-Dominio3.md)
-* [Dominio 4: Seguridad de Red, Aplicaciones y Operaciones]
-* [Dominio 5: Gobernanza y Gestión de Riesgos]
+* [Dominio 3: Conceptos de control de acceso](./ISC2-CC/CC-Dominio3.md)
+* [Dominio 4: Seguridad de la Red]
+* [Dominio 5: Operaciones de seguridad]
 
 ### 2️⃣ CompTIA Security+ (SY0-701)
 *(Próximamente...)*
