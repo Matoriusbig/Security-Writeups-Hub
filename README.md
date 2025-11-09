@@ -69,7 +69,7 @@ Soy **@matoriusbig**, estudiante de **Ingeniería Informática** con una profund
 * [Dominio 1: Principios de Seguridad](./ISC2-CC/CC-Dominio1.md)
 * [Dominio 2: Continuidad del Negocio (BC) y Respuesta a Incidentes](./ISC2-CC/CC-Dominio2.md)
 * [Dominio 3: Conceptos de control de acceso](./ISC2-CC/CC-Dominio3.md)
-* [Dominio 4: Seguridad de la Red]
+* [Dominio 4: Seguridad de la Red](./ISC2-CC/CC-Dominio4.md)
 * [Dominio 5: Operaciones de seguridad]
 
 ### 2️⃣ CompTIA Security+ (SY0-701)
