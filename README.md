@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Matoriusbig/CyberSec-Cert-Mastery/main/assets/banner-cybersec.png" alt="Banner de la Biblioteca de Ciberseguridad"/>
+  <img width="1024" height="1024" alt="Gemini_Generated_Image_ortlkiortlkiortl" src="https://github.com/user-attachments/assets/191bf8ba-ae47-4db3-b64d-96c6a3faef77" />
 </div>
 
 # 📚 La Biblioteca Abierta de Ciberseguridad
@@ -110,17 +110,10 @@ El conocimiento teórico (certificaciones) te da la entrevista. La **práctica**
 
 Esta sección es mi portafolio de laboratorios prácticos de plataformas como **TryHackMe** y **Hack The Box**. Aquí documento el proceso de vulnerar, escalar privilegios y *rootear* máquinas, explicando el *por qué* de cada paso.
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Matoriusbig/CyberSec-Cert-Mastery/main/assets/tryhackme-logo.png" alt="TryHackMe Logo" width="200"/>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/Matoriusbig/CyberSec-Cert-Mastery/main/assets/hackthebox-logo.png" alt="Hack The Box Logo" width="250"/>
-</p>
+![HacktheBox Logo](https://github.com/user-attachments/assets/bd9334c1-a77d-4acf-845a-1ffb99a23f04)
 
 ### 📝 Índice de Máquinas
 
-* **TryHackMe**
-    * [Máquina Fácil: Blue (EternalBlue)](./Write-Ups/THM/Blue.md)
-    * [Máquina Media: (Próximamente)](./Write-Ups/THM/Proximamente.md)
 * **Hack The Box**
     * [Máquina Fácil: (Próximamente)](./Write-Ups/HTB/Proximamente.md)
 
